@@ -11,3 +11,4 @@ $factory->define(CourseType::class, function (Faker $faker) {
         'type_id' => App\Type::pluck('id')->random(),
     ];
 });
+/*Ahmad Ibrahim*/

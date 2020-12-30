@@ -14,3 +14,4 @@ class CourseTypeSeeder extends Seeder
         factory(App\CourseType::class, 15)->create();
     }
 }
+/*Ahmad Ibrahim*/
