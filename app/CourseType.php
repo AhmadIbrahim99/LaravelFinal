@@ -18,3 +18,4 @@ class CourseType extends Model
         return $this->belongsTo('App\Type', 'type_id');
     }
 }
+/*Ahmad Ibrahim*/
