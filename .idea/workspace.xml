@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dfa1fc4-9750-45e4-ae79-0e8d5f30e9c4" name="Default Changelist" comment="..." />
+    <list default="true" id="5dfa1fc4-9750-45e4-ae79-0e8d5f30e9c4" name="Default Changelist" comment="...">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,6 +158,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../nisreen-albaik-resume" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -180,6 +186,8 @@
       <workItem from="1609174634693" duration="9444000" />
       <workItem from="1609343953817" duration="690000" />
       <workItem from="1609344725527" duration="1857000" />
+      <workItem from="1609346646093" duration="1307000" />
+      <workItem from="1609348353560" duration="1336000" />
     </task>
     <task id="LOCAL؜٠٠٠٠١" summary="...">
       <created>1609344614956</created>
@@ -210,9 +218,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1609344640271">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1609346688864">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609344640271" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609346688864" />
   </component>
 </project>
