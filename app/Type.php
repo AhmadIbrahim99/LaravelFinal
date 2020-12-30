@@ -13,3 +13,6 @@ class Type extends Model
         return $this->belongsToMany('App\Course', 'course_types');
     }
 }
+
+
+//Hamza Ayman
