@@ -18,8 +18,8 @@ class CreateCourseTypesTable extends Migration
             $table->foreignId('course_id')->constrained()->onDelete('cascade');
 			$table->foreignId('type_id')->constrained()->onDelete('cascade');
 			$table->timestamps();
-			//$table->unique(['course_id', 'type_id']);     
-			
+			//$table->unique(['course_id', 'type_id']);
+
         });
     }
 
@@ -38,3 +38,4 @@ class CreateCourseTypesTable extends Migration
         Schema::dropIfExists('course_types');
     }
 }
+/*Ahmad Ibrahim*/
