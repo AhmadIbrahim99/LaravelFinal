@@ -14,3 +14,4 @@ $factory->define(Campuse::class, function (Faker $faker) {
         'school_id' => App\School::pluck('id')->random(),
     ];
 });
+/*Ahmad Ibrahim*/
