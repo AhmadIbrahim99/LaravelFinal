@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dfa1fc4-9750-45e4-ae79-0e8d5f30e9c4" name="Default Changelist" comment="Ahmad Ibrahim">
-      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
-    </list>
+    <list default="true" id="5dfa1fc4-9750-45e4-ae79-0e8d5f30e9c4" name="Default Changelist" comment="Ahmad Ibrahim" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,7 +185,7 @@
       <workItem from="1609344725527" duration="1857000" />
       <workItem from="1609346646093" duration="1307000" />
       <workItem from="1609348353560" duration="1336000" />
-      <workItem from="1609350715309" duration="1054000" />
+      <workItem from="1609350715309" duration="1393000" />
     </task>
     <task id="LOCAL؜٠٠٠٠١" summary="...">
       <created>1609344614956</created>
@@ -219,7 +217,25 @@
       <option name="presentableId" value="LOCAL؜٠٠٠٠٥" />
       <updated>1609351690660</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL؜٠٠٠٠٦" summary="Ahmad Ibrahim">
+      <created>1609351775939</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٦" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٦" />
+      <updated>1609351775939</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٧" summary="Ahmad Ibrahim">
+      <created>1609351815762</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٧" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٧" />
+      <updated>1609351815762</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٨" summary="Ahmad Ibrahim">
+      <created>1609351956220</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٨" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٨" />
+      <updated>1609351956220</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,9 +259,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="Ahmad Ibrahim" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1609351733891">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1609351968178">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609351733891" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609351968178" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609351977044">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1609351977044" />
   </component>
 </project>
