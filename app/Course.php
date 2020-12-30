@@ -22,3 +22,4 @@ class Course extends Model
         return $this->belongsToMany('App\Type', 'course_types');
     }
 }
+/*Ahmad Ibrahim*/
