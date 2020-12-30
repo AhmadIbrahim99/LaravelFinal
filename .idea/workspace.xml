@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dfa1fc4-9750-45e4-ae79-0e8d5f30e9c4" name="Default Changelist" comment="Ahmad Ibrahim">
-      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,13 +145,6 @@
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
       <path value="$PROJECT_DIR$/vendor/uxweb/sweet-alert" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
-      <path value="$PROJECT_DIR$/vendor/symfony/string" />
-      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
-      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
-      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
     </include_path>
   </component>
   <component name="ProjectId" id="1ag6YC2MrA9rtMT3B5I6F5S2RDc" />
@@ -227,19 +219,7 @@
       <option name="presentableId" value="LOCAL؜٠٠٠٠٥" />
       <updated>1609351690660</updated>
     </task>
-    <task id="LOCAL؜٠٠٠٠٦" summary="Ahmad Ibrahim">
-      <created>1609352327587</created>
-      <option name="number" value="LOCAL؜٠٠٠٠٦" />
-      <option name="presentableId" value="LOCAL؜٠٠٠٠٦" />
-      <updated>1609352327587</updated>
-    </task>
-    <task id="LOCAL؜٠٠٠٠٧" summary="Ahmad Ibrahim">
-      <created>1609352366587</created>
-      <option name="number" value="LOCAL؜٠٠٠٠٧" />
-      <option name="presentableId" value="LOCAL؜٠٠٠٠٧" />
-      <updated>1609352366587</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,9 +243,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Ahmad Ibrahim" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1609352385122">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1609351733891">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609352385122" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609351733891" />
   </component>
 </project>

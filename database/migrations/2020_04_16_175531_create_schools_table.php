@@ -33,3 +33,4 @@ class CreateSchoolsTable extends Migration
         Schema::dropIfExists('schools');
     }
 }
+//Hamza Ayman
