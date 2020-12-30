@@ -35,7 +35,8 @@ class CreateCoursesTable extends Migration
         {
             $table->dropForeign(['campuse_id']);
         });
-		
+
         Schema::dropIfExists('courses');
     }
 }
+/*Ahmad Ibrahim*/
