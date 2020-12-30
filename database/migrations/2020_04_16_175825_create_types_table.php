@@ -30,3 +30,4 @@ class CreateTypesTable extends Migration
         Schema::dropIfExists('types');
     }
 }
+//Hamza Ayman

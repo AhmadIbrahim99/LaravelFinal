@@ -10,3 +10,4 @@ $factory->define(Type::class, function (Faker $faker) {
         'name' => $faker->name,
     ];
 });
+//Hamza Ayman
